@@ -1,5 +1,5 @@
 # Free-Fish
-Here's a description for a Koii network node named "Free $FISH":
+
 
 Free $FISH: Your Gateway to the Future of Decentralized Finance
 
